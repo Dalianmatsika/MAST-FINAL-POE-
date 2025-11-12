@@ -1,8 +1,8 @@
 # MAST-FINAL-POE-
-# DALIAN MATSIKA 
-# ST10492347
-# GITHUB:
-# YOUTUBE LINK: https://youtu.be/ydRkUQ1aJv8
+DALIAN MATSIKA 
+ST10492347
+GITHUB:https://github.com/Dalianmatsika/MAST-FINAL-POE-.git
+YOUTUBE LINK: https://youtu.be/ydRkUQ1aJv8
 # 1.Overview
 
 This document provides a summary of the development work for the Menu Management Application, a React Native project built to demonstrate proficiency in modular application design, state management, and implementation of core business logic.
